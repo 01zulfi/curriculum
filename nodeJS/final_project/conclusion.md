@@ -52,9 +52,3 @@ It's a great way to start learning about agile development methodologies and to 
 
 I want to emphasize again that the learning never really stops but also that you've come a long way. Keep up the good work, burn through the Getting Hired course, and get ready to start job hunting!
 
-### Additional Resources
-
-This section contains helpful links to other content. It isn't required, so consider it supplemental.
-
-* [Additional frameworks](https://expressjs.com/en/resources/frameworks.html) built on Express for building specific apps (ie. Feathers for chat applications)
-* More on APIs with this [fantastic intro video](https://www.youtube.com/watch?v=oBW_VNg4qD0)
