@@ -7,17 +7,6 @@ In this lesson, we'll help with the visualization by diving deeper than just the
 It is **very important** to take a look at all of this before progressing any further with the curriculum. The project work is becoming more and more complex, so using a disciplined Git workflow is no longer optional. Hopefully after going through this lesson you'll be much more comfortable changing your Git history and have a better understanding of Git as a whole.
 
 
-### Lesson Overview
-
-This section contains a general overview of topics that you will learn in this lesson.
-
-* History changing Git commands
-* Different ways of changing history
-* Using remotes to change history
-* Dangers of history-changing operations
-* Best practices of history-changing operations
-* Pointers
-
 ### Changing History
 
 So let's say you're comfortable writing good commit messages and you're working with branches to have a good Git workflow going. But nobody is perfect, and as you're writing some beautiful code something goes wrong! Maybe you commit too early and are missing a file. Maybe you mess up one of your commit messages and omit a vital detail.
